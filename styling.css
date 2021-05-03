@@ -445,8 +445,8 @@ section .title::after {
 .contact .title::after {
 	content: "Get in Touch";
 }
-.contact .contact-content .column {
-	width: calc(95% - 40px);
+.contact .contact-content .column-left {
+	width: 33%;
 }
 .contact .contact-content .text {
 	font-size: 20px;
