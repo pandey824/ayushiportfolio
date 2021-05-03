@@ -442,6 +442,10 @@ section .title::after {
 }
 
 /* contact section styling */
+.contact {
+	margin: 0;
+	padding: 20px;
+}
 .contact .title::after {
 	content: "Get in Touch";
 }
